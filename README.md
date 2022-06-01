@@ -15,5 +15,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asimodabas&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimodabas&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180" alt="asimodabas" >
+  
 </p>
