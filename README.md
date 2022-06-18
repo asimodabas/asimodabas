@@ -3,9 +3,13 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=asimodabas&color=green" alt="asimodabas :: Profile Stats"></a>
+</p>
+
+<p align="center">
 <a href="mailto:odabasasim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-odabasasim@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/asimodabas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@asimodabas-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/asimodabs/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-asimodabs-black?style=flat-square&logo=instagram"></a>
+<a href="https://medium.com/@asimodabas"><img alt="Medium" src="https://img.shields.io/badge/Medium-@asimodabs-black?style=flat-square&logo=medium"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
