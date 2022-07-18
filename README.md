@@ -1,6 +1,9 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
+I am Asım, I am working on Android application development. I share my projects here. I usually use Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community and as a mobile team member I work on Android app development at our school club [FUTAG][1] My goal is to improve myself while contributing to the corporate development of the company I work for.
+<h3 align="center">Connect with me:</h3>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=asimodabas&color=green" alt="asimodabas :: Profile Stats"></a>
 </p>
@@ -21,3 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=asimodabas&show_icons=true&theme=tokyonight" height="180">
   
 </p>
+
+[0]: https://www.mobiler.dev/
+[1]: https://www.futag.net/
