@@ -6,7 +6,6 @@ I work with Kotlin for Android development on a daily basis and also focus on mo
 I constantly try to improve my skills while contributing to the growth of Trendyol.<br>
 I am actively involved in the Kotlin community and try to deepen my knowledge of Android development.<br>
 If you have any questions about Android, Kotlin or mobile app security, feel free to reach out to me!<br>
-Contact me: [Asimodabas](https://twitter.com/asimodabas) <br>
 I am open to contributing to open-source Kotlin projects, especially in areas like <b>Kotlin</b> and <b>Jetpack Compose</b>.
 
 
