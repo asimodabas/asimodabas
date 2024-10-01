@@ -1,7 +1,14 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I am Asım, I am working on Android application development. I share my projects here. I usually use Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community and as a mobile team member I work on Android app development at our school club [FUTAG][1] My goal is to improve myself while contributing to the corporate development of the company I work for.
+I am Asım, currently working as an Android Developer at [@Trendyol](https://github.com/Trendyol). <br>
+I work with Kotlin for Android development on a daily basis, and I also focus on mobile application security.<br>
+It’s an exciting journey for me to contribute to Trendyol’s growth while continuously improving my skills.<br>
+I actively participate in the Kotlin community and strive to deepen my knowledge of Android development.<br>
+Feel free to reach out if you have any questions about Android, Kotlin, or mobile application security!<br>
+Contact me: [Asimodabas](https://twitter.com/asimodabas) <br>
+I’m open to contributing to open-source Kotlin projects, particularly in areas like [Kotlin Coroutines, Jetpack Compose].
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
